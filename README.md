@@ -40,6 +40,9 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
+<h2>Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=pedrogomez-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pedrogomez-dev)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=pedrogomez-dev&theme=material-palenight)](https://github.com/pedrogomez-dev)
 
-
+![snake animation](https://github.com/pedrogomez-dev/pedrogomez-dev/blob/output/github-contribution-grid-snake2.svg)
