@@ -20,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ### I'm Currently Learning 🤓 
@@ -30,6 +29,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Check Out my Social Media
 <a href="https://discord.com/users/649282493643489281">
@@ -45,4 +45,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=pedrogomez-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pedrogomez-dev)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=pedrogomez-dev&theme=material-palenight)](https://github.com/pedrogomez-dev)
 
-![snake animation](https://github.com/pedrogomez-dev/pedrogomez-dev/blob/output/github-contribution-grid-snake2.svg)
